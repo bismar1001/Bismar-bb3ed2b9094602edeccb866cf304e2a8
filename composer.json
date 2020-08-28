@@ -1,0 +1,15 @@
+ {
+    "name": "bismargazali",
+    "type": "project",
+    "authors": [
+        {
+            "name": "bismar gazali",
+            "email": "bismar_gazali@yahoo.co.id",
+            "role": "programmer"
+        }
+    ],
+    "require": {
+        "phpunit/phpunit":"^6.5"
+    },
+    "description": "Project PHP"
+}
